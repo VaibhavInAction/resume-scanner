@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+env/
+/.venv
+
+# Byte-compiled / optimized / DLL files
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.pytest_cache/
+htmlcov/
+coverage.xml
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# Environment
+.env
+.env.*
+
+# Backend data (DB / storage)
+backend/data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/

@@ -1,0 +1,79 @@
+SENIOR FULL STACK DEVELOPER
+
+Company: TechInnovate Solutions
+Location: Remote (US-based)
+Employment Type: Full-time
+Salary Range: $120,000 - $160,000
+
+ABOUT THE ROLE
+We are seeking an experienced Senior Full Stack Developer to join our growing engineering team. 
+You will be responsible for designing, developing, and maintaining scalable web applications that 
+serve millions of users. This is an excellent opportunity to work with cutting-edge technologies 
+and make a significant impact on our products.
+
+REQUIRED QUALIFICATIONS
+
+Experience:
+- 5+ years of professional experience in full-stack development
+- Strong experience with JavaScript/TypeScript and modern frameworks
+- Proven track record of building and deploying production applications
+- Experience with cloud platforms (AWS, Azure, or GCP)
+
+Technical Skills:
+- Frontend: React, Vue.js, or Angular (React preferred)
+- Backend: Node.js, Python (FastAPI/Django), or Java (Spring Boot)
+- Databases: PostgreSQL, MongoDB, or MySQL
+- RESTful API design and implementation
+- Version control with Git
+- CI/CD pipelines and DevOps practices
+- Docker and containerization
+- Agile/Scrum methodology
+
+PREFERRED QUALIFICATIONS
+- Experience with TypeScript
+- Knowledge of microservices architecture
+- Experience with Kubernetes and container orchestration
+- Familiarity with GraphQL
+- Experience with serverless architecture (AWS Lambda, etc.)
+- Knowledge of Redis or other caching solutions
+- Experience with testing frameworks (Jest, Pytest, etc.)
+- Understanding of security best practices
+- Bachelor's degree in Computer Science or related field
+
+RESPONSIBILITIES
+- Design and develop scalable, high-performance web applications
+- Write clean, maintainable, and well-documented code
+- Collaborate with product managers, designers, and other engineers
+- Participate in code reviews and provide constructive feedback
+- Mentor junior developers and share knowledge with the team
+- Optimize application performance and troubleshoot issues
+- Implement and maintain CI/CD pipelines
+- Stay up-to-date with emerging technologies and industry trends
+
+WHAT WE OFFER
+- Competitive salary and equity compensation
+- Comprehensive health, dental, and vision insurance
+- 401(k) with company match
+- Flexible work hours and remote work options
+- Professional development budget
+- Modern tech stack and latest tools
+- Collaborative and inclusive team culture
+- Opportunities for career growth and advancement
+
+TECH STACK
+- Frontend: React, Next.js, TypeScript, Tailwind CSS
+- Backend: Node.js, Python, FastAPI
+- Databases: PostgreSQL, MongoDB, Redis
+- Cloud: AWS (EC2, S3, Lambda, RDS)
+- DevOps: Docker, Kubernetes, Jenkins, GitHub Actions
+- Monitoring: DataDog, Sentry
+
+HOW TO APPLY
+Please submit your resume along with:
+- Links to your GitHub profile or portfolio
+- Brief description of your most significant project
+- Your availability to start
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate 
+on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital 
+status, veteran status, or disability status.

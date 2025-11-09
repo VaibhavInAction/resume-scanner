@@ -1,0 +1,60 @@
+JOHN DOE
+Full Stack Developer
+Email: john.doe@email.com | Phone: +1-555-123-4567
+LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe
+
+PROFESSIONAL SUMMARY
+Experienced Full Stack Developer with 6+ years of expertise in building scalable web applications. 
+Strong proficiency in JavaScript, React, Node.js, and Python. Passionate about creating clean, 
+efficient code and delivering exceptional user experiences.
+
+TECHNICAL SKILLS
+Programming Languages: JavaScript, Python, TypeScript, Java, SQL, HTML, CSS
+Frontend: React, Vue.js, Next.js, Redux, Tailwind CSS, Bootstrap, Material-UI
+Backend: Node.js, Express.js, FastAPI, Django, Flask, REST API, GraphQL
+Databases: PostgreSQL, MongoDB, MySQL, Redis, Firebase
+Cloud & DevOps: AWS, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions
+Tools: Git, VS Code, Postman, Jira, Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Senior Full Stack Developer | TechCorp Solutions | 2020 - Present
+- Led development of microservices architecture serving 1M+ daily active users
+- Designed and implemented RESTful APIs using Node.js and FastAPI
+- Built responsive frontend applications with React and TypeScript
+- Reduced application load time by 40% through performance optimization
+- Mentored junior developers and conducted code reviews
+- Implemented CI/CD pipelines using Docker and Kubernetes
+
+Full Stack Developer | WebInnovate Inc. | 2018 - 2020
+- Developed and maintained e-commerce platform using React and Node.js
+- Integrated payment gateways (Stripe, PayPal) and third-party APIs
+- Optimized database queries improving response time by 60%
+- Collaborated with UX team to implement responsive designs
+- Participated in Agile/Scrum development process
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University | 2014 - 2018
+GPA: 3.8/4.0
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate (2022)
+- MongoDB Certified Developer (2021)
+- Certified Scrum Master (CSM) (2020)
+
+PROJECTS
+E-Commerce Platform | React, Node.js, MongoDB
+- Built full-featured online store with cart, checkout, and payment processing
+- Implemented real-time inventory management system
+- Achieved 99.9% uptime and handled 10K+ concurrent users
+
+Task Management App | Next.js, FastAPI, PostgreSQL
+- Developed collaborative project management tool
+- Integrated real-time updates using WebSockets
+- Deployed on AWS with auto-scaling capabilities
+
+ACHIEVEMENTS
+- Reduced bug count by 35% by implementing comprehensive testing strategies
+- Won "Best Innovation Award" for developing internal automation tool
+- Published 3 technical articles on Medium with 50K+ total views

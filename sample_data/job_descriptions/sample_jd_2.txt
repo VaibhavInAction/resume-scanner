@@ -1,0 +1,124 @@
+DATA SCIENTIST / MACHINE LEARNING ENGINEER
+
+Company: AI Analytics Corp
+Location: San Francisco, CA / Remote
+Job Type: Full-time
+Compensation: $130,000 - $180,000 + Benefits
+
+POSITION OVERVIEW
+AI Analytics Corp is looking for a talented Data Scientist / ML Engineer to join our team. You will 
+work on challenging problems involving large-scale data analysis, predictive modeling, and machine 
+learning. This role requires strong technical skills, business acumen, and the ability to translate 
+data insights into actionable recommendations.
+
+MINIMUM REQUIREMENTS
+
+Education:
+- Master's degree or PhD in Computer Science, Statistics, Mathematics, or related field
+- OR Bachelor's degree with 5+ years of relevant experience
+
+Experience:
+- 3+ years of hands-on experience in data science or machine learning
+- Proven experience deploying ML models to production
+- Strong background in statistical analysis and modeling
+
+Core Technical Skills:
+- Expert-level Python programming
+- Machine Learning: scikit-learn, XGBoost, LightGBM
+- Deep Learning: TensorFlow, PyTorch, or Keras
+- Data manipulation: Pandas, NumPy
+- Data visualization: Matplotlib, Seaborn, Plotly
+- SQL and database management
+- Statistical analysis and hypothesis testing
+
+PREFERRED QUALIFICATIONS
+- Experience with NLP (Natural Language Processing)
+- Computer Vision experience
+- Big Data technologies: Apache Spark, Hadoop, Airflow
+- Cloud platforms: AWS (SageMaker, EC2, S3) or GCP
+- MLOps and model deployment experience
+- Experience with A/B testing and experimentation
+- Knowledge of recommendation systems
+- Time-series forecasting experience
+- Familiarity with Docker and Kubernetes
+- Published research papers or technical blog posts
+
+REQUIRED COMPETENCIES
+- Strong mathematical and statistical foundation
+- Experience with feature engineering and model optimization
+- Ability to handle large datasets (millions of records)
+- Understanding of ML model evaluation metrics
+- Knowledge of data pipeline development
+- Version control (Git) and collaborative development
+- Strong problem-solving and analytical thinking
+
+KEY RESPONSIBILITIES
+- Design and develop machine learning models for various business problems
+- Perform exploratory data analysis and feature engineering
+- Build and maintain data pipelines and ETL processes
+- Deploy ML models to production and monitor performance
+- Collaborate with engineering teams to integrate models into products
+- Conduct A/B tests to validate model performance
+- Create visualizations and reports for stakeholders
+- Stay current with latest ML research and techniques
+- Document models, methodologies, and results
+- Mentor junior data scientists
+
+PROJECTS YOU'LL WORK ON
+- Customer behavior prediction and personalization
+- Recommendation engine development
+- Fraud detection and anomaly detection
+- Natural language processing for text analytics
+- Time-series forecasting for business metrics
+- Image classification and computer vision applications
+
+TOOLS & TECHNOLOGIES
+- Languages: Python, R, SQL
+- ML Frameworks: TensorFlow, PyTorch, scikit-learn
+- Big Data: Spark, Hadoop, Kafka
+- Cloud: AWS (SageMaker, EMR, S3, Redshift)
+- Version Control: Git, GitHub
+- Notebooks: Jupyter, Colab
+- Experiment Tracking: MLflow, Weights & Biases
+- Orchestration: Airflow, Prefect
+- Containers: Docker
+
+WHAT WE OFFER
+- Competitive salary with performance bonuses
+- Stock options/equity
+- Comprehensive healthcare benefits
+- 401(k) matching
+- Flexible work arrangements (hybrid/remote)
+- Learning and development budget ($3,000/year)
+- Conference attendance opportunities
+- State-of-the-art computing resources
+- Collaborative and innovative work environment
+- Career advancement opportunities
+
+COMPANY CULTURE
+We foster a culture of innovation, continuous learning, and collaboration. Our team consists of 
+passionate data scientists, engineers, and researchers who are excited about solving complex 
+problems with data and AI. We value diversity and encourage applications from candidates of all 
+backgrounds.
+
+APPLICATION PROCESS
+To apply, please submit:
+1. Your resume/CV
+2. Cover letter explaining your interest and relevant experience
+3. Links to GitHub, Kaggle, or portfolio showcasing your work
+4. (Optional) Research papers or technical blog posts you've authored
+
+Interviews will include:
+- Phone screening
+- Technical assessment (coding + ML concepts)
+- System design discussion
+- Behavioral interview
+- Team fit conversation
+
+We aim to complete the interview process within 2-3 weeks.
+
+Equal Opportunity Employer
+AI Analytics Corp is committed to creating a diverse environment and is proud to be an equal 
+opportunity employer. All qualified applicants will receive consideration without regard to race, 
+color, religion, gender, gender identity, sexual orientation, national origin, disability, age, 
+or veteran status.

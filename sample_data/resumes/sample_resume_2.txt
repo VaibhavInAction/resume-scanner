@@ -1,0 +1,70 @@
+SARAH CHEN
+Data Scientist & ML Engineer
+sarah.chen@email.com | (555) 987-6543
+Portfolio: sarahchen.dev | LinkedIn: linkedin.com/in/sarahchen
+
+SUMMARY
+Data Scientist with 4+ years of experience in machine learning, deep learning, and data analysis.
+Expertise in Python, TensorFlow, PyTorch, and big data technologies. Proven track record of 
+building predictive models that drive business decisions and improve operational efficiency.
+
+TECHNICAL EXPERTISE
+Languages: Python, R, SQL, Java, JavaScript
+ML/AI: TensorFlow, PyTorch, Keras, scikit-learn, XGBoost, LightGBM
+Data Analysis: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+Big Data: Apache Spark, Hadoop, Airflow
+Cloud: AWS (SageMaker, S3, EC2), Google Cloud Platform, Azure
+Databases: PostgreSQL, MySQL, MongoDB, Elasticsearch
+Tools: Jupyter, Git, Docker, MLflow, DVC
+
+WORK EXPERIENCE
+
+Senior Data Scientist | DataVision Analytics | 2021 - Present
+- Developed recommendation engine using collaborative filtering increasing user engagement by 25%
+- Built NLP models for sentiment analysis on customer feedback (95% accuracy)
+- Created time-series forecasting models for inventory optimization saving $500K annually
+- Deployed ML models to production using Docker and Kubernetes
+- Led team of 3 data scientists on customer churn prediction project
+- Implemented MLOps practices for model monitoring and retraining
+
+Data Scientist | Insights Corporation | 2019 - 2021
+- Designed and trained deep learning models for image classification (CNN)
+- Performed exploratory data analysis on datasets with 10M+ records
+- Created interactive dashboards using Tableau and Power BI
+- Automated data pipelines using Apache Airflow
+- Collaborated with engineering team to integrate models into production systems
+
+EDUCATION
+Master of Science in Data Science
+Tech Institute | 2017 - 2019
+Focus: Machine Learning, Statistical Analysis, Big Data
+
+Bachelor of Science in Mathematics
+University College | 2013 - 2017
+
+CERTIFICATIONS
+- Google Cloud Professional Machine Learning Engineer (2023)
+- AWS Certified Machine Learning - Specialty (2022)
+- TensorFlow Developer Certificate (2021)
+
+KEY PROJECTS
+Customer Churn Prediction | Python, XGBoost, AWS
+- Built predictive model achieving 89% accuracy in identifying at-risk customers
+- Reduced churn rate by 18% through targeted retention campaigns
+
+Medical Image Classification | PyTorch, CNN
+- Developed deep learning model for disease detection in X-ray images
+- Achieved 92% accuracy validated by medical professionals
+
+Real-time Fraud Detection | Spark, Kafka, Python
+- Implemented streaming ML pipeline for transaction fraud detection
+- Reduced false positives by 40% compared to rule-based system
+
+PUBLICATIONS & PRESENTATIONS
+- "Deep Learning for Predictive Analytics" - Data Science Conference 2023
+- "Scalable ML Pipelines" - Medium article with 10K+ views
+
+SKILLS SUMMARY
+Machine Learning: Supervised Learning, Unsupervised Learning, Deep Learning, NLP, Computer Vision
+Data Engineering: ETL Pipelines, Data Warehousing, Data Modeling
+Soft Skills: Problem Solving, Communication, Team Leadership, Agile Methodology
